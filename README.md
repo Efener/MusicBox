@@ -6,3 +6,11 @@ Music.c contains the implementation of the utility functions.
 Song.txt file is the file which we use to read the tones.
 
 MusicBox.c is our main file.
+
+
+BUT MOST IMPORTANTLY
+
+...
+
+
+MUSIC MAKE YOU LOSE CONTROL
